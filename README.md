@@ -1,6 +1,4 @@
-# aacevski.com
-
-![Cover](static/cover.png)
+# andreh.sh
 
 minimal portfolio built with go templates. deployed on cloudflare pages.
 
